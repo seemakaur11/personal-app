@@ -13,7 +13,8 @@ import pp from '../img/pp.jpg';
 import pp1 from '../img/pp1.jpg';
 import pp2 from '../img/pp2.jpg';
 import pp3 from '../img/pp3.jpg';
-import about2 from '../img/about2.jpg'
+import ppp from '../img/ppp.jpg';
+
 import ch1 from '../img/ch1.jpg';
 import ch2 from '../img/ch2.jpg';
 
@@ -74,14 +75,14 @@ function Navbar() {
                     <div className="row py-5">
                         <div className="col-lg-5 col-sm-12">
                             <div className="myimage">
-                                <img src={about2} className="img-fluid" alt="seema" />
+                                <img src={ppp} className="img-fluid" alt="seema" />
                             </div>
                         </div>
                         <div className="col-lg-7 col-sm-12">
                             <div className="about">
                                 <h2>ABOUT ME.</h2>
-                                <p className="py-2">UI/UX Designer & Web Developer</p>
-                                <p className="py-2">Hello! I’m Seema Kaur from Hisar, India. I code and create web elements
+                                <p className="">UI/UX Designer & Web Developer</p>
+                                <p className="">Hello! I’m Seema Kaur from Hisar, India. I code and create web elements
                                     for amazing people around the world. I like work with new people.
                                     New people are new experiences. Web Developer with over 1 years of experience.
                                     Experienced with all stages of the development cycle for dynamic web projects.
@@ -105,7 +106,7 @@ function Navbar() {
                                     <FaLinkedinIn className="ml-5" id="ic" />
                                 </i>
                             </div>
-                            <div className="pt-5">
+                            <div className="pt-4">
                                 <a href="#Contact Us" type="button" className="dbutton">Contact Me</a>
                             </div>
                         </div>
