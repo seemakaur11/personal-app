@@ -89,7 +89,7 @@ function Navbar() {
                                     Having an in-depth knowledge including advanced HTML5, CSS3, Bootstrap5, React,
                                     JavaScript I aim to make a difference through my creative solution.
                                 </p>
-                                <p className="py-2">
+                                <p>
                                     Now, I’m working on a professional, visually sophisticated and technologically proficient,
                                     responsive and multi-functional react
                                     theme. If you are interested to work with me,
